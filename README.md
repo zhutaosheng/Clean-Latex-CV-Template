@@ -33,5 +33,6 @@ To use this LaTeX template on Overleaf and paste main.tex code, follow these ste
 
 👤 **Aras Güngöre**
 * GitHub: [@arasgungore](https://github.com/arasgungore)
+
 👤 **Zhutao**
 * GitHub: [@zhutaosheng](https://github.com/zhutaosheng)
