@@ -22,6 +22,11 @@ To use this LaTeX template on Overleaf and paste main.tex code, follow these ste
 
 ## Screenshots
 
+<p align="center">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/zhutaosheng/Clean-Latex-CV-Template/main/screenshots/CV_page_1.jpg" width="400">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/zhutaosheng/Clean-Latex-CV-Template/main/screenshots/CV_page_2.jpg" width="400">
+</p>
+
 
 
 ## Author
