@@ -3,9 +3,9 @@
 
 ## Run on Overleaf
 
-To use this LaTeX template on Overleaf and paste main.tex code, follow these steps:
+To use this LaTeX template on Overleaf and copy [main.tex](https://github.com/zhutaosheng/Clean-Latex-CV-Template/edit/main/main.tex) code, follow these steps:
 
-- Log in to your Overleaf account and create a new project.
+- Log in to your [Overleaf](https://www.overleaf.com/) account and create a new project.
 
 - Click on the "New Project" button and select "Blank Project" from the dropdown menu.
 
