@@ -32,7 +32,7 @@ To use this LaTeX template on Overleaf and paste main.tex code, follow these ste
 ## Author
 
 👤 **Aras Güngöre**
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* GitHub: [@arasgungore](https://github.com/arasgungore/arasgungore-CV)
 
 👤 **Zhutao**
 * GitHub: [@zhutaosheng](https://github.com/zhutaosheng)
